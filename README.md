@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br><br>
 👋 Hi, I'm **Shweta Ramesh Nagapure**, an enthusiastic B.Tech student in Information Technology from **SVKM’s Institute of Technology, Dhule**.  <br>💡 I’m passionate about building impactful solutions at the intersection of **data science**, **AI/ML**, and **real-world challenges**.  <br>🔬 My work has been recognized at national and global platforms like IEEE YESIST, SmartIdeathon, and Bank of Baroda Innovation Challenge.<br><br><br><br>
-## 🔭 I’m currently working on:<br> **Time-series AI models for seizure prediction** (IEEE EMBS Internship)<br> Research on **clinical deployment of LSTM/RNN models** for neurological conditions<br> Finalizing project: **Rainfall Consumption Prediction using Power BI + Snowflake**<br><br>---<br><br>
+## 🔭 I’m currently working on:<br> **Time-series AI models for seizure prediction** (IEEE EMBS Internship)<br> Research on **clinical deployment of LSTM/RNN models** for neurological conditions<br> Finalizing project: **Rainfall Consumption Prediction using Power BI + Snowflake**<br><br><br><br>
 ## 🤝 I’m looking to collaborate on:<br> **AI/ML-based healthcare** or **FinTech** solutions  <br> **Open-source projects** using **Flask, LangChain, and LLMs**  <br> **Women-led innovation initiatives** in tech<br><br><br><br>
 ## ❓ I’m looking for help with:<br>- **Model optimization** and **deployment at scale**<br> Building integrations using **Azure, Snowflake, BigQuery**<br>- Implementing **LLMs with RAG pipelines** more efficiently
 
