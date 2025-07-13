@@ -65,8 +65,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ShwetaNagapure&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![My Quote](https://img.shields.io/badge/Turning%20data%20into%20stories%2C%20code%20into%20solutions%2C%20and%20ideas%20into%20impact%20%E2%80%94%20one%20project%20at%20a%20time.-blueviolet?style=for-the-badge&logo=quote&logoColor=white)
+
 
 ---
 ## 🔝 Top Contributed Repo
