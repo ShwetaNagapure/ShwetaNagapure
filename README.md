@@ -1,9 +1,48 @@
 # 💫 About Me:
-<br><br>
-👋 Hi, I'm **Shweta Ramesh Nagapure**, an enthusiastic B.Tech student in Information Technology from **SVKM’s Institute of Technology, Dhule**.  <br>💡 I’m passionate about building impactful solutions at the intersection of **data science**, **AI/ML**, and **real-world challenges**.  <br>🔬 My work has been recognized at national and global platforms like IEEE YESIST, SmartIdeathon, and Bank of Baroda Innovation Challenge.<br><br><br><br>
-## 🔭 I’m currently working on:<br> **Time-series AI models for seizure prediction** (IEEE EMBS Internship)<br> Research on **clinical deployment of LSTM/RNN models** for neurological conditions<br> Finalizing project: **Rainfall Consumption Prediction using Power BI + Snowflake**<br><br><br><br>
-## 🤝 I’m looking to collaborate on:<br> **AI/ML-based healthcare** or **FinTech** solutions  <br> **Open-source projects** using **Flask, LangChain, and LLMs**  <br> **Women-led innovation initiatives** in tech<br><br><br><br>
-## ❓ I’m looking for help with:<br>- **Model optimization** and **deployment at scale**<br> Building integrations using **Azure, Snowflake, BigQuery**<br>- Implementing **LLMs with RAG pipelines** more efficiently
+
+👋 Hi, I'm **Shweta Ramesh Nagapure**, an enthusiastic B.Tech student in Information Technology from **SVKM’s Institute of Technology, Dhule**.  
+💡 I’m passionate about building impactful solutions at the intersection of **data science**, **AI/ML**, and **real-world challenges**.  
+🔬 My work has been recognized at national and global platforms like IEEE YESIST, SmartIdeathon, and Bank of Baroda Innovation Challenge.
+
+---
+
+## 🔭 I’m currently working on:
+- **Time-series AI models for seizure prediction** (IEEE EMBS Internship)
+- Research on **clinical deployment of LSTM/RNN models** for neurological conditions
+- Finalizing project: **Rainfall Consumption Prediction using Power BI + Snowflake**
+
+---
+
+## 🤝 I’m looking to collaborate on:
+- **AI/ML-based healthcare** or **FinTech** solutions  
+- **Open-source projects** using **Flask, LangChain, and LLMs**  
+- **Women-led innovation initiatives** in tech
+
+---
+
+## ❓ I’m looking for help with:
+- **Model optimization** and **deployment at scale**
+- Building integrations using **Azure, Snowflake, BigQuery**
+- Implementing **LLMs with RAG pipelines** more efficiently
+
+---
+
+## 🌱 I’m currently learning:
+- Advanced **LangChain workflows**
+- **Data Engineering tools** (Snowflake, BigQuery)
+- **Streaming Algorithms & Probabilistic Models** (via ACM Winter School)
+
+---
+
+## 💬 Ask me about:
+- My journey building:
+  - 🧠 *Swara* – NLP-based speech therapy tool  
+  - 💸 *Financial Advisory Bot* using GenAI & Power BI  
+  - 🏷️ *SmartVision QA tool* for e-commerce using CV  
+- Tips on pitching ideas, business models, and product strategy  
+- How to turn **data into insight with Power BI and storytelling**
+
+---
 
 
 ## 🌐 Socials:
@@ -22,6 +61,22 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShwetaNagapure&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br><br>
+## 🏆 Achievements:
+- 🥇 **IEEE YESIST Global Finalist** (Malaysia) – Top 30/10,000+  
+- 🥈 **SmartIdeathon (GITAM)** – Best Woman-Led Innovation  
+- 🥉 **IDE Bootcamp Runner-Up** – AICTE & MoE  
+- 🔥 **Top 20 Finalist** – Bank of Baroda Innovation Challenge  
+- 🏅 **Top 100 National Finalist** – KPIT Sparkle (IoT & Automation)
+<br><br>
+## 📚 Publications:
+**📄 Swara: An Integrated Learning Platform for Personalized Speech Therapy**  
+- Registered Copyright (India) – SW18865/2024  
+- Combines ASR, NLP, and Deep Learning for speech correction
+
+
+<br><br>
+_💡 Let's build something that makes a difference!_
 
