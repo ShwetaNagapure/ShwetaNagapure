@@ -20,20 +20,6 @@
 
 ---
 
-## ❓ I’m looking for help with:
-- **Model optimization** and **deployment at scale**
-- Building integrations using **Azure, Snowflake, BigQuery**
-- Implementing **LLMs with RAG pipelines** more efficiently
-
----
-
-## 🌱 I’m currently learning:
-- Advanced **LangChain workflows**
-- **Data Engineering tools** (Snowflake, BigQuery)
-- **Streaming Algorithms & Probabilistic Models** (via ACM Winter School)
-
----
-
 ## 💬 Ask me about:
 - My journey building:
   - 🧠 *Swara* – NLP-based speech therapy tool  
