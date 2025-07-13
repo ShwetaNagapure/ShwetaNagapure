@@ -66,10 +66,6 @@
 
 ---
 
-![My Quote](https://img.shields.io/badge/Turning%20data%20into%20stories%2C%20code%20into%20solutions%2C%20and%20ideas%20into%20impact%20%E2%80%94%20one%20project%20at%20a%20time.-blueviolet?style=for-the-badge&logo=quote&logoColor=white)
-
-
----
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShwetaNagapure&limit=5&theme=dark&combine_all_yearly_contributions=true)
 <br><br>
