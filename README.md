@@ -9,7 +9,7 @@
 ## 🔭 I’m currently working on:
 - **Time-series AI models for seizure prediction** (IEEE EMBS Internship)
 - Research on **clinical deployment of LSTM/RNN models** for neurological conditions
-- Finalizing project: **Rainfall Consumption Prediction using Power BI + Snowflake**
+
 
 ---
 
