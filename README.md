@@ -6,10 +6,16 @@
 
 ---
 
-## 🔭 I’m currently working on:
-- **Time-series AI models for seizure prediction** (IEEE EMBS Internship)
-- Research on **clinical deployment of LSTM/RNN models** for neurological conditions
+## 💼 Experience
 
+- **AI Developer Intern** | Infosys Springboard (Nov 2025 -Present)
+Working on RUL prediction using the NASA C-MAPSS dataset, building end-to-end LSTM/GRU-based deep learning pipelines for predictive maintenance.
+
+- **AI Product Development Intern** | AIWIZ Tech Solutions (Sept 2025 – Oct 2025)
+Developed production-ready AI solutions and ML pipelines; built a Violence Detection System (RWF-2000 + X3D) achieving 95.4% accuracy.
+
+- **Research Intern** | IEEE EMBS (Jun 2025 – Aug 2025)
+Designed RNN/LSTM-based time-series models for EEG seizure detection, achieving 94.7% accuracy and optimized for clinical deployment.
 
 ---
 
