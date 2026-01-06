@@ -8,7 +8,7 @@
 
 ## 💼 Experience
 
-- **AI Developer Intern** | Infosys Springboard (Nov 2025 -Present)
+- **AI Developer Intern** | Infosys Springboard (Nov 2025 -Jan 2026 )
 Working on RUL prediction using the NASA C-MAPSS dataset, building end-to-end LSTM/GRU-based deep learning pipelines for predictive maintenance.
 
 - **AI Product Development Intern** | AIWIZ Tech Solutions (Sept 2025 – Oct 2025)
